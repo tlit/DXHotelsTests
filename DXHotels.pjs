@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{EBFDC747-0A93-42A7-A2B8-0B79BF7146B9}">
+	<children>
+		<child name="DXHotels" key="{6F9F84D4-905D-411E-809C-4BDE3E667FFE}" path="DXHotels.mds" />
+	</children>
+	<testItems key="{F441FBE4-5948-4E45-93FE-226538BAF28D}">
+		<children>
+			<testItem key="{6F9F84D4-905D-411E-809C-4BDE3E667FFE}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{3A075245-FEF7-4A7C-981E-D33357019860}" />
+	<analysis key="{9B9A5B41-E143-44DF-B28B-627AEEA46E8D}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="False" />
+	</extender>
+</Root>
