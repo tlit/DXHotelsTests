@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{586C48A6-6802-4FF6-9823-377EA110824A}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Chrome" Key="{1CDF579E-5562-418E-961B-ED758E9B01E5}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="DXHotels_LandingPage" Key="{B0153F25-1BB8-49C9-A6B9-E6DAF620189C}">
+								<Image FileName="617025706" Left="13" Top="218" Right="3853" Bottom="2094" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="1" LocalVariable="LandingPageURI" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="LocationDropdownButton" Key="{254FCB02-C44B-4DB6-BB22-BE14103F5A3E}">
+										<Image FileName="617025706" Left="1726" Top="542" Right="1746" Bottom="570" />
+										<Selectors>
+											<Selector>
+												<Value Value="#MainContentPlaceHolder_SearchPanel_SearchPanelLayout_LocationComboBox_B-1Img" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="AdWidget" Key="{629165AB-425B-4B0C-9419-4020D031EE0B}">
+										<Image FileName="1713656519" Left="441" Top="1158" Right="2281" Bottom="1514" />
+										<Selectors>
+											<Selector>
+												<Value Value="#MainContentPlaceHolder_WidgetsDockZone" />
+											</Selector>
+										</Selectors>
+										<Children>
+											<Child Name="Spa" Key="{61B12673-ED6E-4B7E-8046-C1EECCEF9028}">
+												<Image FileName="570666032" Left="443" Top="1220" Right="939" Bottom="1512" />
+												<Selectors>
+													<Selector>
+														<Value Value="#MainContentPlaceHolder_dpWidget2_PWC-1" />
+													</Selector>
+												</Selectors>
+												<Children>
+													<Child Name="CloseButton" Key="{80A34DCC-335B-440B-92BF-FF40417774EE}">
+														<Image FileName="1413988026" Left="867" Top="1258" Right="901" Bottom="1284" />
+														<Selectors>
+															<Selector>
+																<Value Value="#MainContentPlaceHolder_dpWidget2_dpWidget2CloseImage" />
+															</Selector>
+														</Selectors>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="LoginForm" Key="{C68569A4-25C5-4A21-B519-319ED09BD2BE}">
+										<Image FileName="1551822495" Left="755" Top="734" Right="1967" Bottom="1578" />
+										<TypeInfo Item0="{72147AE2-4E8B-47F7-B01C-6BB25B936C42}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#HeaderControl_LogonControl_PWC-1" />
+											</Selector>
+										</Selectors>
+										<Children>
+											<Child Name="LoginCaptcha" Key="{936A4855-5F08-481E-8C21-A58522466981}">
+												<Image FileName="-1075792231" Left="1031" Top="1039" Right="1687" Bottom="1239" />
+												<Selectors>
+													<Selector>
+														<Value Value="#HeaderControl_LogonControl_LoginFormLayout_Captcha_IMG" />
+													</Selector>
+												</Selectors>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="LoginButton" Key="{8E407161-F697-4699-B99B-321339C680D1}">
+										<Image FileName="1641372911" Left="1909" Top="252" Right="2055" Bottom="324" />
+										<Selectors>
+											<Selector>
+												<Value Value="#HeaderControl_Login_CD" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="LocationTable" Key="{035E3E2D-D104-4A77-BFF5-71DB9E098933}">
+										<TypeInfo Item0="{333318F6-9AE4-43DB-A5A3-F7BA46477AC6}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#MainContentPlaceHolder_SearchPanel_SearchPanelLayout_LocationComboBox_DDD_L" />
+											</Selector>
+										</Selectors>
+										<Children>
+											<Child Name="HeaderCell_NoOfHotels" Key="{3653D232-0B2E-408A-8A7C-6DA4589C471E}">
+												<Selectors>
+													<Selector>
+														<Value Value="//tr[1]/td[text()=&apos;# of Hotels&apos;]" />
+													</Selector>
+												</Selectors>
+											</Child>
+											<Child Name="HeaderCell_Country" Key="{16267D64-6822-4F8F-A72E-9EEA6E909887}">
+												<Selectors>
+													<Selector>
+														<Value Value="//tr[1]/td[text()=&apos;Country&apos;]" />
+													</Selector>
+												</Selectors>
+											</Child>
+											<Child Name="HeaderCell_City" Key="{0B481844-8301-45A1-A723-DD7A38B3D2B5}">
+												<Image FileName="590986594" Left="13" Top="218" Right="13" Bottom="218" />
+												<Selectors>
+													<Selector>
+														<Value Value="//tr[1]/td[text()=&apos;City&apos;]" />
+													</Selector>
+												</Selectors>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Chrome" Owner="{1CDF579E-5562-418E-961B-ED758E9B01E5}">
+			<Child Name="DXHotels_LandingPage" Owner="{B0153F25-1BB8-49C9-A6B9-E6DAF620189C}">
+				<Child Name="LocationTable" Owner="{035E3E2D-D104-4A77-BFF5-71DB9E098933}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="Task01_LocationSearchHeaderCells" key="{488E0EF0-44D9-401E-912B-7015AFC2E214}" path="Task01_LocationSearchHeaderCells.tcKDTest" />
+		<child name="Task02_CloseAdvert" key="{1C288045-6AAA-4C7D-BD06-4B8B043E899B}" path="Task02_CloseAdvert.tcKDTest" />
+		<child name="Task03_LoginCaptcha" key="{5CF1E88C-0682-4AC4-B824-12E90A9FC3AA}" path="Task03_LoginCaptcha.tcKDTest" />
+	</children>
+</Root>
